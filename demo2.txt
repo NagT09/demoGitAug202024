@@ -1,6 +1,3 @@
 Hi
-<<<<<<< HEAD
 Hello
 How are you
-=======
->>>>>>> parent of a94a22c (second commit)
