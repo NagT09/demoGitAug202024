@@ -1,4 +1,8 @@
 Hi
+<<<<<<< HEAD
 How are you
 
 
+=======
+Hello
+>>>>>>> parent of 45e7223 (third commit)
